@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to right, #C33764, #1D2671);
+    
+}
+span{
+    color: white;
+}
+.logo{
+   font-family: Comfortaa;
+}
+.main{
+    margin-top: 0px;
+    width: 100%;
+    min-height: 150vh;
+}
+.nav-link{
+    transition: all ease-in-out 0.4s;
+    -webkit-transition: all ease-in-out 0.4s;
+    -moz-transition: all ease-in-out 0.4s;
+    -o-transition: all ease-in-out 0.4s;
+}
+.nav-link:hover{
+    color: white;
+    text-shadow: 0px 0px 25px white;
+}
+body::-webkit-scrollbar{
+    background-color: gray;
+    width: 3px;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: rgb(66, 66, 66);
+}
+.fa-check{
+    color: greenyellow;
+}
+p{
+    font-size: 20px;
+}
