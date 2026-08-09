@@ -2,9 +2,7 @@
 
 # Hey, I'm Dmitrii 👋
 
-### Still learning. Still building. Still trying to get there.
-
-Based in Germany · interested in AI, automation, and systems
+Based in Germany · interested in AI, automation, marketing, and trading systems
 
 <p>
   <a href="https://github.com/melonwer?tab=repositories"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
@@ -17,11 +15,11 @@ Based in Germany · interested in AI, automation, and systems
 
 ## A little about me
 
-I'm not going to pretend I have everything figured out. I don't. I'm learning as I go, building things that interest me, and trying to get a little better with every project.
+I'm just learning as I go, building things that interest me, and trying to get a little better with every project.
 
-I like ideas that start a bit too ambitious and slowly turn into something real — especially around AI, automation, developer tools, and systems.
+I like ideas that introduce challenge and sound impossible, but as I learn more they begin to form a path which only question my dedication.
 
-Most of what I work on is private or closed source, so it won't all show up here. That's fine. This page is just the small part I can share.
+Most of what I work on is private or closed source, so it won't all show up here. This page is just the small part I can share.
 
 <table>
   <tr>
