@@ -17,7 +17,7 @@ Based in Germany · interested in AI, automation, marketing, and trading systems
 
 I'm just learning as I go, building things that interest me, and trying to get a little better with every project.
 
-I like ideas that introduce challenge and sound impossible, but as I learn more they begin to form a path which only question my dedication.
+I like ideas that introduce challenge and sound impossible, but as I learn more they begin to form a path which in the end just question my dedication.
 
 Most of what I work on is private or closed source, so it won't all show up here. This page is just the small part I can share.
 
